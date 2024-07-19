@@ -1,0 +1,11 @@
+div {
+    margin-bottom: 10px;
+  }
+
+  button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border:color-mix(in hsl shorter hue, color percentage, color percentage);
+    cursor: pointer;
+  }
